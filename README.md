@@ -26,8 +26,8 @@ Especialista em Geociências com uma trajetória sólida que une Geografia, Geol
 ---
 
 ### 📫 Como me encontrar:
-* **LinkedIn:** http://lattes.cnpq.br/6241469346860889
-* **Lattes:** [Seu Link do Lattes aqui]
+* **LinkedIn:** 
+* **Lattes:** http://lattes.cnpq.br/6241469346860889
 
 ---
 *Interessada em oportunidades de estágio remoto em GIS Development e Geovisualização.*
