@@ -6,7 +6,7 @@ Especialista em Geociências com uma trajetória sólida que une Geografia, Geol
 
 ---
 
-### 🎓 Formação Académica & Especializações
+### 🎓 Formação Acadêmica & Especializações
 * **Bacharelado em Geografia** (Foco em análise espacial)
 * **Especialização em Geoprocessamento** (Em conclusão)
 * **Especialização em Gestão Ambiental**
