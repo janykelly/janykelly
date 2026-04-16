@@ -26,7 +26,7 @@ Especialista em Geociências com uma trajetória sólida que une Geografia, Geol
 ---
 
 ### 📫 Como me encontrar:
-* **LinkedIn:** []http://lattes.cnpq.br/6241469346860889
+* **LinkedIn:** http://lattes.cnpq.br/6241469346860889
 * **Lattes:** [Seu Link do Lattes aqui]
 
 ---
