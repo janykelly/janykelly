@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou a Jany Kelly! 👋
 
-<!--
-**janykelly/janykelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Geospatial Specialist | Systems Developer in Training | Subject Matter Expert
 
-Here are some ideas to get you started:
+Especialista em Geociências com uma trajetória sólida que une Geografia, Geologia e Gestão Ambiental ao desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Formação Académica & Especializações
+* **Bacharelado em Geografia** (Foco em análise espacial)
+* **Especialização em Geoprocessamento** (Em conclusão)
+* **Especialização em Gestão Ambiental**
+* **Técnica em Geoprocessamento**
+* **Técnica em Geologia**
+* **Técnica em Desenvolvimento de Sistemas** (Em progresso - Foco em Algoritmos e CSS)
+
+### 🛠 Competências Técnicas
+* **GIS & Análise Espacial:** QGIS, ArcGIS, Estatística Espacial (Índice de Moran), Interpolação.
+* **Linguagens & Tecnologias:** RStudio, Python (Automação), Algoritmos, CSS (Visualização de Dados).
+* **Domínio de Negócio:** Monitoramento de precipitação, análise epidemiológica espacial (Dengue), Geologia técnica.
+
+### 📊 Projetos em Destaque
+* **Análise de Precipitação (2015-2025):** Série histórica detalhada do Rio Grande do Norte.
+* **Modelagem de Dengue:** Estudo da distribuição espacial de casos no Rio de Janeiro (2025).
+
+---
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [Seu Link do LinkedIn aqui]
+* **Lattes:** [Seu Link do Lattes aqui]
+
+---
+*Interessada em oportunidades de estágio remoto em GIS Development e Geovisualização.*
