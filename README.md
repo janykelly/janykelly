@@ -21,7 +21,6 @@ Especialista em Geociências com uma trajetória sólida que une Geografia, Geol
 
 ### 📊 Projetos em Destaque
 * **Análise de Precipitação (2015-2025):** Série histórica detalhada do Rio Grande do Norte.
-* **Modelagem de Dengue:** Estudo da distribuição espacial de casos no Rio de Janeiro (2025).
 
 ---
 
